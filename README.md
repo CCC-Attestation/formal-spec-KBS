@@ -9,6 +9,7 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 
 | Event/Host | Venue | Date(s) | Funding | Material |
 | --- | --- | --- | --- | --- |
+| [IETF 120](https://www.ietf.org/meeting/120/) and [Hackathon](https://wiki.ietf.org/en/meeting/120/hackathon) | Vancouver, Canada | 20-26 July, 2024 | looking for sponsors |  |
 | Invited talk at [Heriot-Watt University](https://www.hw.ac.uk/) | Edinburgh, UK | TBD | [EuroProofNet](https://europroofnet.github.io/) | |
 | [Dresden Science Night 2024](https://www.wissenschaftsnacht-dresden.de/en/) | Dresden, Germany | 14 June, 2024 | - |  |
 | [Output 2024](https://output-dd.de/) | Dresden, Germany | 13 June, 2024 | - |  |
