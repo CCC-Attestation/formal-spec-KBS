@@ -11,6 +11,7 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | --- | --- | --- | --- | --- |
 | [IETF 120](https://www.ietf.org/meeting/120/) and [Hackathon](https://wiki.ietf.org/en/meeting/120/hackathon) | Vancouver, Canada | 20-26 July, 2024 | looking for sponsors |  |
 | Invited talk at [Heriot-Watt University](https://www.hw.ac.uk/) | Edinburgh, UK | TBD | [EuroProofNet](https://europroofnet.github.io/) | |
+| [17th Interaction and Concurrency Experience (ICE)](https://www.discotec.org/2024/ice) | Groningen, The Netherlands | 21 June, 2024 | looking for sponsors |  |
 | [Dresden Science Night 2024](https://www.wissenschaftsnacht-dresden.de/en/) | Dresden, Germany | 14 June, 2024 | - |  |
 | [Output 2024](https://output-dd.de/) | Dresden, Germany | 13 June, 2024 | - |  |
 | [Confidential Computing Summit 2024](https://www.confidentialcomputingsummit.com/) | San Francisco, USA | 5-6 June, 2024 | looking for sponsors |  |
