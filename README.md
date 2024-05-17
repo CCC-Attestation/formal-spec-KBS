@@ -15,8 +15,8 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | [Dresden Science Night 2024](https://www.wissenschaftsnacht-dresden.de/en/) | Dresden, Germany | 14 June, 2024 | - |  |
 | [Output 2024](https://output-dd.de/) | Dresden, Germany | 13 June, 2024 | - |  |
 | [Confidential Computing Summit 2024](https://www.confidentialcomputingsummit.com/) | San Francisco, USA | 5-6 June, 2024 | looking for sponsors |  |
-| [Hackathon on Lightweight IoT Security](https://parishackathon.lakewg.org/) | Paris, France | 21-22 May, 2024 | looking for sponsors |  |
-| [Attested TLS workshop](https://hackmd.io/@A_TVjSksQxWv7wvs1Ghhiw/r1BdwS3xC) @ [Linaro Connect](https://www.linaro.org/connect/) | Madrid, Spain | 16 May, 2024 | looking for sponsors |  |
+| [Hackathon on Lightweight IoT Security](https://parishackathon.lakewg.org/) | Paris, France | 21-22 May, 2024 | [nuant](https://www.nuant.com/) |  |
+| [Attested TLS workshop](https://hackmd.io/@A_TVjSksQxWv7wvs1Ghhiw/r1BdwS3xC) @ [Linaro Connect](https://www.linaro.org/connect/) | Madrid, Spain | 16-17 May, 2024 | [nuant](https://www.nuant.com/) | slides |
 | [2024 OCP Regional Summit](https://2024ocpregional.fnvirtual.app/) (co-present with Yogesh Deshpande) | Lisbon, Portugal | 24-25 April, 2024 | [Swisstronik](https://swisstronik.com/) and [softwEre education](https://softwere.education/) | slides [video](https://www.youtube.com/watch?v=KUkL1SvGTS8) |
 | [11th Workshop on Horn Clauses for Verification and Synthesis](https://www.sci.unich.it/hcvs24/) | Luxembourg | 7 April, 2024 | [CCC](https://confidentialcomputing.io/)/[Veraison](https://github.com/veraison) | slides |
 | [2024 Annual Meeting of the WG "Formal Methods in Security"](https://gtmfs2024.sciencesconf.org/) | Saint Pierre d’Oléron, France | 3-5 April, 2024 | [CPEC](https://www.perspicuous-computing.science/) | [slides](https://gtmfs2024.sciencesconf.org/data/pages/usama.pdf) |
