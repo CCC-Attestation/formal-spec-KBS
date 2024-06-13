@@ -9,11 +9,12 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 
 | Event/Host | Venue | Date(s) | Funding | Material |
 | --- | --- | --- | --- | --- |
-| [IETF 120](https://www.ietf.org/meeting/120/) and [Hackathon](https://wiki.ietf.org/en/meeting/120/hackathon) | Vancouver, Canada | 20-26 July, 2024 | sponsors are invited |  |
 | Invited talk at [Heriot-Watt University](https://www.hw.ac.uk/) | Edinburgh, UK | TBD | [EuroProofNet](https://europroofnet.github.io/) | |
+| [IETF 120](https://www.ietf.org/meeting/120/) and [Hackathon](https://wiki.ietf.org/en/meeting/120/hackathon) | Vancouver, Canada | 20-26 July, 2024 | sponsors are invited |  |
 | [17th Interaction and Concurrency Experience (ICE)](https://www.discotec.org/2024/ice) | Groningen, The Netherlands | 21 June, 2024 | sponsors are invited |  |
 | [Dresden Science Night 2024](https://www.wissenschaftsnacht-dresden.de/en/) | Dresden, Germany | 14 June, 2024 | - | [demo](https://www.wissenschaftsnacht-dresden.de/en/events/detailed-view/confidential-computing-13160) |
 | [Output 2024](https://output-dd.de/) | Dresden, Germany | 13 June, 2024 | - | [lecture](https://output-dd.de/blog/project-post/confidential-computing-attested-tls-and-formalization/) [demo](https://output-dd.de/blog/project-post/confidential-computing/) |
+| CCC Attestation SIG | Virtual | 4 June, 2024 | - | [video](https://youtu.be/pcBQm0inGrE?t=495) |
 | [Confidential Computing Summit 2024](https://www.confidentialcomputingsummit.com/) (to be presented by Thomas Fossati) | San Francisco, USA | 5-6 June, 2024 | - | [abstract](https://www.confidentialcomputingsummit.com/session/attested-tls-and-formalization) |
 | [Hackathon on Lightweight IoT Security](https://parishackathon.lakewg.org/) | Paris, France | 21-22 May, 2024 | [nuant](https://www.nuant.com/) | [side meeting](https://openwsn.atlassian.net/wiki/spaces/LAKE/pages/2355789825/Interactive+tutorial+Towards+formal+verification+of+attested+TLS) [slides](https://www.researchgate.net/publication/380734475_Towards_Formal_Verification_of_Attested_TLS) |
 | [Attested TLS workshop](https://hackmd.io/@A_TVjSksQxWv7wvs1Ghhiw/r1BdwS3xC) @ [Linaro Connect](https://www.linaro.org/connect/) | Madrid, Spain | 16-17 May, 2024 | [nuant](https://www.nuant.com/) | [slides1](https://github.com/tls-attestation/materials/blob/main/lc24/Formalization-Usama.pdf) [video1](https://youtu.be/TCLqdDrXSXE?t=119) [slides2](https://github.com/tls-attestation/materials/blob/main/lc24/Intro.pdf) [video2](https://youtu.be/btQ--08Ock8?t=621) [minutes](https://github.com/tls-attestation/materials/tree/main/lc24#minutes)|
