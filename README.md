@@ -11,7 +11,7 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | --- | --- | --- | --- | --- |
 | Invited talk at [Heriot-Watt University](https://www.hw.ac.uk/) | Edinburgh, UK | TBD | [EuroProofNet](https://europroofnet.github.io/) | |
 | [IETF 120](https://www.ietf.org/meeting/120/) and [Hackathon](https://wiki.ietf.org/en/meeting/120/hackathon) | Vancouver, Canada | 20-26 July, 2024 | sponsors are invited |  |
-| [17th Interaction and Concurrency Experience (ICE)](https://www.discotec.org/2024/ice) | Groningen, The Netherlands | 21 June, 2024 | sponsors are invited |  |
+| [17th Interaction and Concurrency Experience (ICE)](https://www.discotec.org/2024/ice) | Groningen, The Netherlands | 21 June, 2024 | partly by [Deepvertise](https://deepvertise.com/) and [DISCOTEC](https://www.discotec.org/2024/) organizers| [slides](https://www.researchgate.net/publication/381609008_Presentation_Towards_Formal_Verification_of_Attested_TLS_Potential_Replay_Attacks_on_RA-TLS_Oral_communication) |
 | [Dresden Science Night 2024](https://www.wissenschaftsnacht-dresden.de/en/) | Dresden, Germany | 14 June, 2024 | - | [demo](https://www.wissenschaftsnacht-dresden.de/en/events/detailed-view/confidential-computing-13160) |
 | [Output 2024](https://output-dd.de/) | Dresden, Germany | 13 June, 2024 | - | [lecture](https://output-dd.de/blog/project-post/confidential-computing-attested-tls-and-formalization/) [demo](https://output-dd.de/blog/project-post/confidential-computing/) |
 | CCC Attestation SIG | Virtual | 4 June, 2024 | - | [video](https://youtu.be/pcBQm0inGrE?t=495) |
