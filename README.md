@@ -10,10 +10,12 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | Event/Host | Venue | Date(s) | Funding | Material |
 | --- | --- | --- | --- | --- |
 | Research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | TBD | [University of Namur](https://www.unamur.be/en) | |
-| [Confidential Computing MC](https://lpc.events/event/18/sessions/194/#20240920) @ [Linux Plumbers Conference](https://lpc.events/event/18/) | Vienna, Austria | 20 Sept, 2024 | - |  |
-| Organizing [PAVeTrust](https://pavetrust.github.io/) with [FM2024](https://www.fm24.polimi.it/)| Milan, Italy | 9 Sept, 2024 | [TBTL](https://tbtl.com/) | - |
-| Talk at [Arm](https://www.arm.com/) | Cambridge, UK | 30 Aug, 2024 | [EuroProofNet](https://europroofnet.github.io/) | |
-| Invited talk at [Heriot-Watt University](https://www.hw.ac.uk/) | Edinburgh, UK | 26-28 Aug, 2024 | [EuroProofNet](https://europroofnet.github.io/) | |
+| [IETF 121](https://www.ietf.org/meeting/121/) | Dublin, Ireland | 2-8 Nov, 2024 | Sponsors are invited | |
+| [Confidential Computing MC](https://lpc.events/event/18/sessions/194/#20240920) @ [Linux Plumbers Conference (LPC)](https://lpc.events/event/18/) | Vienna, Austria | 20 Sept, 2024 | LPC Organizers |  |
+| [PAVeTrust](https://pavetrust.github.io/) with [FM2024](https://www.fm24.polimi.it/)| Milan, Italy | 9 Sept, 2024 | [TBTL](https://tbtl.com/) | - |
+| Invited talk at [Arm](https://www.arm.com/) | Cambridge, UK | 30 Aug, 2024 | [EuroProofNet](https://europroofnet.github.io/) | |
+| Research visit at [Heriot-Watt University](https://www.hw.ac.uk/) | Edinburgh, UK | 26-28 Aug, 2024 | [EuroProofNet](https://europroofnet.github.io/) | - |
+| CCC Attestation SIG | Virtual | 27 August, 2024 | - | [video](https://youtu.be/lVULCFkdM20?list=PLmfkUJc39uMhZsNGmpx-qD-uCoQyMglIp&t=516) |
 | CCC Attestation SIG | Virtual | 30 July, 2024 | - | [video](https://youtu.be/tsxdCsMF_yI?list=PLmfkUJc39uMhZsNGmpx-qD-uCoQyMglIp&t=961) |
 | [IETF 120](https://www.ietf.org/meeting/120/) | Vancouver, Canada | 22-26 July, 2024 | [CCC](https://confidentialcomputing.io/) | [Tutorial plan](https://mailarchive.ietf.org/arch/msg/120attendees/5b5Zs7v-1X0IWPyNlo-srSqEu9I/), <br> [Tutorial slides](https://www.researchgate.net/publication/382489639_Presentation_Interactive_Tutorial_Attested_TLS_and_Formalization), <br> [Confidential workloads slides](https://www.researchgate.net/publication/382591631_Presentation_Overview_of_Attested_TLS), <br> [UFMRG slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-ufmrg-towards-formal-analysis-of-attested-tls) and [video](https://youtu.be/xdJm9JgfLaw?list=PLC86T-6ZTP5j9uBe9CSYa7zlVRl7NwPyN&t=3324)|
 | [IETF 120 Hackathon](https://www.ietf.org/meeting/hackathons/120-hackathon/) | Vancouver, Canada | 20-21 July, 2024 | [CCC](https://confidentialcomputing.io/) | [Hackathon project](https://wiki.ietf.org/en/meeting/120/hackathon), [slides](https://datatracker.ietf.org/meeting/120/materials/slides-120-hackathon-sessd-formal-analysis-of-attested-tls-for-confidential-computing), [demo](https://wiki.ietf.org/en/meeting/120/hackathon/hackdemo) and [video](https://youtu.be/uuj5GLbHEDI?list=PLC86T-6ZTP5j9uBe9CSYa7zlVRl7NwPyN&t=4441) |
