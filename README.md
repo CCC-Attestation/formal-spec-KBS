@@ -12,8 +12,8 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | Research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | TBD | [University of Namur](https://www.unamur.be/en) | |
 | [IETF 121](https://www.ietf.org/meeting/121/) | Dublin, Ireland | 2-8 Nov, 2024 | Sponsors are invited | |
 | [Confidential Computing MC](https://lpc.events/event/18/sessions/194/#20240920) @ [Linux Plumbers Conference (LPC)](https://lpc.events/event/18/) | Vienna, Austria | 20 Sept, 2024 | LPC Organizers |  |
-| [PAVeTrust](https://pavetrust.github.io/) with [FM2024](https://www.fm24.polimi.it/)| Milan, Italy | 9 Sept, 2024 | [TBTL](https://tbtl.com/) | - |
-| Invited talk at [Arm](https://www.arm.com/) | Cambridge, UK | 30 Aug, 2024 | [EuroProofNet](https://europroofnet.github.io/) | |
+| [PAVeTrust](https://pavetrust.github.io/) with [FM2024](https://www.fm24.polimi.it/)| Milan, Italy | 9 Sept, 2024 | [TBTL](https://tbtl.com/) |  |
+| Invited talk at [Arm](https://www.arm.com/) | Cambridge, UK | 30 Aug, 2024 | [EuroProofNet](https://europroofnet.github.io/) | [slides](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing) |
 | Research visit at [Heriot-Watt University](https://www.hw.ac.uk/) | Edinburgh, UK | 26-28 Aug, 2024 | [EuroProofNet](https://europroofnet.github.io/) | - |
 | CCC Attestation SIG | Virtual | 27 August, 2024 | - | [video](https://youtu.be/lVULCFkdM20?list=PLmfkUJc39uMhZsNGmpx-qD-uCoQyMglIp&t=516) |
 | CCC Attestation SIG | Virtual | 30 July, 2024 | - | [video](https://youtu.be/tsxdCsMF_yI?list=PLmfkUJc39uMhZsNGmpx-qD-uCoQyMglIp&t=961) |
