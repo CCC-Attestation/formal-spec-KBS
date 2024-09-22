@@ -10,7 +10,8 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | Event/Host | Venue | Date(s) | Funding | Material |
 | --- | --- | --- | --- | --- |
 | Research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | TBD | [University of Namur](https://www.unamur.be/en) | |
-| [IETF 121](https://www.ietf.org/meeting/121/) | Dublin, Ireland | 2-8 Nov, 2024 | Sponsors are invited | |
+| [IETF 121](https://www.ietf.org/meeting/121/) | Dublin, Ireland | 4-8 Nov, 2024 | Sponsors are invited | |
+| [HASP 2024](https://www.haspworkshop.org/2024/) co-located with [MICRO 2024](https://microarch.org/micro57/) | Austin, USA | 2 Nov, 2024 | Sponsors are invited | |
 | [IETF](https://www.ietf.org/) [RATS Virtual Interim ](https://datatracker.ietf.org/doc/agenda-interim-2024-rats-01-rats-01/)| Virtual | 27 Sep, 2024 | - | slides, video |
 | [Confidential Computing MC](https://lpc.events/event/18/sessions/194/#20240920) @ [Linux Plumbers Conference (LPC)](https://lpc.events/event/18/) | Vienna, Austria | 20 Sept, 2024 | [LPC](https://lpc.events/event/18/) Organizers | [slides](https://lpc.events/event/18/contributions/1866/attachments/1641/3394/20240920_LPC.pdf), video |
 | [PAVeTrust](https://pavetrust.github.io/) with [FM2024](https://www.fm24.polimi.it/)| Milan, Italy | 9 Sept, 2024 | [TBTL](https://tbtl.com/) | slides |
