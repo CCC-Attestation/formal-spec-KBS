@@ -13,8 +13,8 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | [IETF 121](https://www.ietf.org/meeting/121/) | Dublin, Ireland | 4-8 Nov, 2024 | Sponsors are invited | |
 | [HASP 2024](https://www.haspworkshop.org/2024/) co-located with [MICRO 2024](https://microarch.org/micro57/) | Austin, USA | 2 Nov, 2024 | Sponsors are invited | |
 | CCC Attestation SIG | Virtual | 8 October, 2024 | - | video |
-| Invited talk at [Intel](https://www.intel.com/content/www/us/en/homepage.html) | Virtual | 8 October, 2024 | - |  |
-| [IETF](https://www.ietf.org/) [RATS Virtual Interim ](https://datatracker.ietf.org/doc/agenda-interim-2024-rats-01-rats-01/)| Virtual | 27 Sep, 2024 | - | slides, video |
+| Invited talk at [Intel](https://www.intel.com/content/www/us/en/homepage.html) | Virtual | 8 October, 2024 | - | [slides](https://www.researchgate.net/publication/384800091_Vulnerabilities_in_Intel's_RA-TLS_Protocol_and_Proposed_Mitigations) |
+| [IETF](https://www.ietf.org/) [RATS Virtual Interim ](https://datatracker.ietf.org/doc/agenda-interim-2024-rats-01-rats-01/)| Virtual | 27 Sep, 2024 | - | [slides](https://datatracker.ietf.org/meeting/interim-2024-rats-01/materials/slides-interim-2024-rats-01-sessa-can-rats-architecture-help-in-security-analysis-of-attestation-frameworks-00), [video](https://youtu.be/iXZPy77olRA?t=2506) |
 | [Confidential Computing MC](https://lpc.events/event/18/sessions/194/#20240920) @ [Linux Plumbers Conference (LPC)](https://lpc.events/event/18/) | Vienna, Austria | 20 Sept, 2024 | [LPC](https://lpc.events/event/18/) Organizers | [slides](https://lpc.events/event/18/contributions/1866/attachments/1641/3394/20240920_LPC.pdf), [video](https://youtu.be/8XQwzUZxLK4?t=1647) |
 | [PAVeTrust](https://pavetrust.github.io/) with [FM2024](https://www.fm24.polimi.it/)| Milan, Italy | 9 Sept, 2024 | [TBTL](https://tbtl.com/) | slides |
 | Invited talk at [Arm](https://www.arm.com/) | Cambridge, UK | 30 Aug, 2024 | [EuroProofNet](https://europroofnet.github.io/) | [slides](https://www.researchgate.net/publication/383658019_Presentation_Attested_TLS_for_Confidential_Computing) |
