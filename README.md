@@ -12,9 +12,9 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | Research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | TBD | [University of Namur](https://www.unamur.be/en) | |
 | Organizer [Attestation](https://fosdem.org/2025/schedule/track/attestation/) devroom at [FOSDEM](https://fosdem.org/2025/) | Brussels, Belgium | 1-2 Feb, 2025 | Sponsors are invited | |
 | Invited talk at [ICARC 2025](http://www.icarc.sab.ac.lk/) | Virtual | January 2025 | - | |
-| [IETF 121](https://www.ietf.org/meeting/121/) | Dublin, Ireland | 4-8 Nov, 2024 | Sponsors are invited | |
-| [HASP 2024](https://www.haspworkshop.org/2024/) co-located with [MICRO 2024](https://microarch.org/micro57/) | Austin, USA | 2 Nov, 2024 | Sponsors are invited | |
-| CCC Attestation SIG | Virtual | 22 October, 2024 | - | video |
+| [IETF 121](https://www.ietf.org/meeting/121/) | Dublin, Ireland | 2-8 Nov, 2024 | Sponsors are invited | Basic tutorial slides, Advanced tutorial slides, UFMRG slides and video |
+| [HASP 2024](https://www.haspworkshop.org/2024/) co-located with [MICRO 2024](https://microarch.org/micro57/) | Austin, USA (Virtual) | 2 Nov, 2024 | Sponsors are invited | video |
+| CCC Attestation SIG | Virtual | 22 October, 2024 | - | [video](https://youtu.be/e9LGum03Y00?list=PLmfkUJc39uMhZsNGmpx-qD-uCoQyMglIp&t=345) |
 | CCC Attestation SIG | Virtual | 8 October, 2024 | - | [video](https://youtu.be/8m2JVocPPKY?list=PLmfkUJc39uMhZsNGmpx-qD-uCoQyMglIp&t=2840) |
 | Invited talk at [Intel](https://www.intel.com/content/www/us/en/homepage.html) | Virtual | 8 October, 2024 | - | [slides](https://www.researchgate.net/publication/384800091_Vulnerabilities_in_Intel's_RA-TLS_Protocol_and_Proposed_Mitigations) |
 | [IETF](https://www.ietf.org/) [RATS Virtual Interim ](https://datatracker.ietf.org/doc/agenda-interim-2024-rats-01-rats-01/)| Virtual | 27 Sep, 2024 | - | [slides](https://datatracker.ietf.org/meeting/interim-2024-rats-01/materials/slides-interim-2024-rats-01-sessa-can-rats-architecture-help-in-security-analysis-of-attestation-frameworks-00), [video](https://youtu.be/iXZPy77olRA?t=2506) |
