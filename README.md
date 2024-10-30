@@ -12,7 +12,8 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | Research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | TBD | [University of Namur](https://www.unamur.be/en) | |
 | Organizer [Attestation](https://fosdem.org/2025/schedule/track/attestation/) devroom at [FOSDEM](https://fosdem.org/2025/) | Brussels, Belgium | 1-2 Feb, 2025 | Sponsors are invited | |
 | Invited talk at [ICARC 2025](http://www.icarc.sab.ac.lk/) | Virtual | January 2025 | - | |
-| [IETF 121](https://www.ietf.org/meeting/121/) | Dublin, Ireland | 2-8 Nov, 2024 | Sponsors are invited | Basic tutorial slides, Advanced tutorial slides, UFMRG slides and video |
+| [IETF 121](https://www.ietf.org/meeting/121/) | Dublin, Ireland | 4-8 Nov, 2024 | [CCC](https://confidentialcomputing.io/) | Basic tutorial slides, <br> Advanced tutorial slides, <br> UFMRG slides and video, <br> RATS slides and video |
+| [IETF 121 Hackathon](https://www.ietf.org/meeting/hackathons/121-hackathon/) | Dublin, Ireland | 2-3 Nov, 2024 | [CCC](https://confidentialcomputing.io/) | [Hackathon project](https://wiki.ietf.org/en/meeting/121/hackathon), slides, demo and video |
 | [HASP 2024](https://www.haspworkshop.org/2024/) co-located with [MICRO 2024](https://microarch.org/micro57/) | Austin, USA (Virtual) | 2 Nov, 2024 | Sponsors are invited | video |
 | CCC Attestation SIG | Virtual | 22 October, 2024 | - | [video](https://youtu.be/e9LGum03Y00?list=PLmfkUJc39uMhZsNGmpx-qD-uCoQyMglIp&t=345) |
 | CCC Attestation SIG | Virtual | 8 October, 2024 | - | [video](https://youtu.be/8m2JVocPPKY?list=PLmfkUJc39uMhZsNGmpx-qD-uCoQyMglIp&t=2840) |
