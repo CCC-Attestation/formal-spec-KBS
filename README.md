@@ -9,10 +9,12 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 
 | Event/Host | Venue | Date(s) | Funding | Material |
 | --- | --- | --- | --- | --- |
+| [IETF 122](https://www.ietf.org/meeting/122/) | Bangkok, Thailand | 17-21 Mar, 2025 | Sponsors are invited | |
+| [IETF 122 Hackathon](https://www.ietf.org/meeting/hackathons/122-hackathon/) | Bangkok, Thailand | 15-16 Mar, 2025 | Sponsors are invited | |
 | Research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | 3-7 Feb, 2025 | [University of Namur](https://www.unamur.be/en) | |
 | Organizer [Attestation](https://fosdem.org/2025/schedule/track/attestation/) devroom at [FOSDEM](https://fosdem.org/2025/) | Brussels, Belgium | 1-2 Feb, 2025 | Sponsors are invited | |
-| Organizer CCC Attestation SIG workshop | Brussels, Belgium | 31 Jan, 2025 | Sponsors are invited | |
-| Invited talk at [ICARC 2025](http://www.icarc.sab.ac.lk/) | Virtual | January 2025 | - | |
+| [Attestation workshop](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25) | Brussels, Belgium | 31 Jan, 2025 | Sponsors are invited | slides |
+| Invited talk at [ICARC 2025](http://www.icarc.sab.ac.lk/) | Virtual | 17 Jan, 2025 | - | |
 | CCC Attestation SIG | Virtual | 19 Nov, 2024 | - | video |
 | [IETF 121](https://www.ietf.org/meeting/121/) | Dublin, Ireland | 4-8 Nov, 2024 | [CCC](https://confidentialcomputing.io/) | Hot RFC [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-hotrfc-sessa-formal-analysis-of-attested-tls-for-confidential-computing-00) and [video](https://youtu.be/eO8TZoS5A6o?t=1442), <br> [Tutorial plan](https://mailarchive.ietf.org/arch/msg/121attendees/Llfr6OO6PCHWQKyZ3i3pixG7lBk/), <br> [Tutorial slides](https://www.researchgate.net/publication/385587687_Presentation_Interactive_Tutorial_Attested_TLS_and_Formalization), <br> UFMRG [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-ufmrg-specifications-of-attested-tls-00) and [video](https://youtu.be/FOiuDqhqLJY?t=912), <br> RATS [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-rats-security-considerations-of-attested-tls-00) and [video](https://youtu.be/sWQ6sZkIZE8?t=4187) <br> TLS [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-tls-tls-and-attestation-00) and [video](https://youtu.be/46ItvWI_k4Y?t=6086)  (presented by Hannes) |
 | [IETF 121 Hackathon](https://www.ietf.org/meeting/hackathons/121-hackathon/) | Dublin, Ireland | 2-3 Nov, 2024 | [CCC](https://confidentialcomputing.io/) | [Hackathon project](https://wiki.ietf.org/en/meeting/121/hackathon), [slides](https://datatracker.ietf.org/meeting/121/materials/slides-121-hackathon-sessd-formal-analysis-of-attested-tls-for-confidential-computing-00), [demo](https://wiki.ietf.org/en/meeting/121/hackathon/hackdemo) and [video](https://youtu.be/Tv2Zg7HAQ6o?t=3525) |
