@@ -9,6 +9,7 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 
 | Event/Host | Venue | Date(s) | Funding | Material |
 | --- | --- | --- | --- | --- |
+| Tutorial @ [ISCC 2025](https://ieee-iscc.computer.org/2025/#) | Bologna, Italy | 2-5 July, 2025 | Sponsors are invited | |
 | [IETF 122](https://www.ietf.org/meeting/122/) | Bangkok, Thailand | 17-21 Mar, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | |
 | [IETF 122 Hackathon](https://www.ietf.org/meeting/hackathons/122-hackathon/) | Bangkok, Thailand | 15-16 Mar, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | |
 | Seminar and research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | 3-7 Feb, 2025 | [University of Namur](https://www.unamur.be/en) | |
