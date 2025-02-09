@@ -11,9 +11,9 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | --- | --- | --- | --- | --- |
 | [IETF 122](https://www.ietf.org/meeting/122/) | Bangkok, Thailand | 17-21 Mar, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | |
 | [IETF 122 Hackathon](https://www.ietf.org/meeting/hackathons/122-hackathon/) | Bangkok, Thailand | 15-16 Mar, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | |
-| Research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | 3-7 Feb, 2025 | [University of Namur](https://www.unamur.be/en) | |
-| Organizer [Attestation](https://fosdem.org/2025/schedule/track/attestation/) devroom at [FOSDEM](https://fosdem.org/2025/) | Brussels, Belgium | 1-2 Feb, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | |
-| [Attestation workshop](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25) | Brussels, Belgium | 31 Jan, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | slides |
+| Seminar and research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | 3-7 Feb, 2025 | [University of Namur](https://www.unamur.be/en) | |
+| Organizer [Attestation](https://fosdem.org/2025/schedule/track/attestation/) devroom at [FOSDEM](https://fosdem.org/2025/) | Brussels, Belgium | 1-2 Feb, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | [slides](https://www.researchgate.net/publication/388833498_Welcome_to_the_Attestation_Devroom), video |
+| [Attestation workshop](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25) | Brussels, Belgium | 31 Jan, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | |
 | Lightening talk at [Systems Meetup](https://ukvly.org/) | Dresden, Germany | 21 Jan, 2025 | - |  |
 | Invited talk at [ICARC 2025](http://www.icarc.sab.ac.lk/) | Virtual | 17 Jan, 2025 | - | |
 | CCC Attestation SIG | Virtual | 19 Nov, 2024 | - | video |
