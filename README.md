@@ -13,7 +13,7 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | [2025 Annual Meeting of the WG "Formal Methods in Security"](https://gtmfs2025.sciencesconf.org/) | Le Mont-Dore, France | 17-21 Mar, 2025 |  |  |
 | [IETF 122](https://www.ietf.org/meeting/122/) | Bangkok, Thailand | 17-21 Mar, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | |
 | [IETF 122 Hackathon](https://www.ietf.org/meeting/hackathons/122-hackathon/) | Bangkok, Thailand | 15-16 Mar, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | |
-| Data Security Work Stream (DSWS) at [The Global Alliance for Genomics and Health](https://www.ga4gh.org/) | Virtual | 3-7 Feb, 2025 | - | |
+| Data Security Work Stream (DSWS) at [The Global Alliance for Genomics and Health](https://www.ga4gh.org/) | Virtual | 27 Feb, 2025 | - | |
 | Seminar and research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | 3-7 Feb, 2025 | [University of Namur](https://www.unamur.be/en) | |
 | Organizer [Attestation](https://fosdem.org/2025/schedule/track/attestation/) devroom at [FOSDEM](https://fosdem.org/2025/) | Brussels, Belgium | 1-2 Feb, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | [slides](https://www.researchgate.net/publication/388833498_Welcome_to_the_Attestation_Devroom), video |
 | [Attestation workshop](https://github.com/muhammad-usama-sardar/attestation-workshop-fosdem25) | Brussels, Belgium | 31 Jan, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | |
