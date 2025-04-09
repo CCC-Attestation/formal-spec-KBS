@@ -1,7 +1,7 @@
 # Formal Specification and Verification of the Confidential Containers KBS Protocol
 
 ## Tool 
-We will use state-of-the-art symbolic security analysis tool [ProVerif](https://ieeexplore.ieee.org/document/9833653) for the specification of the protocol. 
+We are using state-of-the-art symbolic security analysis tool [ProVerif](https://ieeexplore.ieee.org/document/9833653) for the specification of the protocol. 
 
 ## Upcoming and Recent Talks and Research Visits
 
@@ -13,9 +13,14 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | [Dresden Science Night 2025](https://www.wissenschaftsnacht-dresden.de/en/) | Dresden, Germany | 20 June, 2025 | - | [demo](https://www.wissenschaftsnacht-dresden.de/en/events/detailed-view/confidential-computing-14103) |
 | Invited talk at [Huawei](https://www.huawei.com/eu/) | Paris, France | 27 May, 2025 | [Huawei](https://www.huawei.com/eu/) | slides |
 | [Linaro Connect 2025](https://www.linaro.org/connect) | Lisbon, Portugal | 15 May, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | slides |
+| Invited talk at Google | Virtual | TBD | - |  |
+| Invited talk at [Flashbots](https://www.flashbots.net/) | Virtual | 9 Apr, 2025 | - | slides; video |
+| CCC Attestation SIG | Virtual | 8 Apr, 2025 | - | video |
 | ~~[2025 Annual Meeting of the WG "Formal Methods in Security"](https://gtmfs2025.sciencesconf.org/)~~ | ~~Le Mont-Dore, France~~ | ~~17-21 Mar, 2025~~ | - | Could not attend due to overlap with IETF meeting |
+| CCC Attestation SIG | Virtual | 28 Jan, 2025 | - |  |
 | [IETF 122](https://www.ietf.org/meeting/122/) | Bangkok, Thailand | 17-21 Mar, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | [WIMSE slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-wimse-identity-crisis-00) and [video](https://youtu.be/7FUaIYiGzQs?t=4533), <br> [TLS slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-tls-identity-crisis-00) and [video](https://youtu.be/bQ-Bz60AppI?t=6353), <br> Hot RFC [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-hotrfc-sessa-09-identity-crisis-in-attested-tls-for-confidential-computing-00) and [video](https://youtu.be/YHZ2OTwtTj8?list=PLC86T-6ZTP5i9ogKVq-2kQdcj9DWhIAVz&t=1932), <br> [Side meetings plan](https://mailarchive.ietf.org/arch/msg/122attendees/KYY1qFF2wx_fKPGGufDvQgpxFRo/), [slides](https://www.researchgate.net/publication/390121641_Presentation_Attested_TLS_Fundamentals) and videos |
 | [IETF 122 Hackathon](https://www.ietf.org/meeting/hackathons/122-hackathon/) | Bangkok, Thailand | 15-16 Mar, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | [Hackathon project](https://wiki.ietf.org/en/meeting/122/hackathon), [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-hackathon-sessd-identity-crisis-for-attested-tls-in-confidential-computing-00), [demo](https://wiki.ietf.org/meeting/122/hackathon/hackdemo) and [video](https://youtu.be/CP0Namfmajc?list=PLC86T-6ZTP5i9ogKVq-2kQdcj9DWhIAVz&t=5732) |
+| CCC Attestation SIG | Virtual | 11 Mar, 2025 | - |  |
 | Data Security Work Stream (DSWS) at [The Global Alliance for Genomics and Health](https://www.ga4gh.org/) | Virtual | 27 Feb, 2025 | - | |
 | CCC Attestation SIG | Virtual | 25 Feb, 2025 | - |  |
 | Seminar and research visit at [University of Namur](https://www.unamur.be/en) | Namur, Belgium | 3-7 Feb, 2025 | [University of Namur](https://www.unamur.be/en) | |
