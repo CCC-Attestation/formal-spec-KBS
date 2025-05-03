@@ -11,13 +11,14 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | --- | --- | --- | --- | --- |
 | Tutorial @ [ISCC 2025](https://ieee-iscc.computer.org/2025/#) | Bologna, Italy | 2-5 July, 2025 | Sponsors are invited | |
 | [Dresden Science Night 2025](https://www.wissenschaftsnacht-dresden.de/en/) | Dresden, Germany | 20 June, 2025 | - | [demo](https://www.wissenschaftsnacht-dresden.de/en/events/detailed-view/confidential-computing-14103) |
-| Invited talk at [Huawei](https://www.huawei.com/eu/) | Paris, France | 27 May, 2025 | [Huawei](https://www.huawei.com/eu/) | slides |
+| Invited talk at 2025 Future Trustworthiness Technology Summit (organized by Huawei) | Paris, France | 27 May, 2025 | [Huawei](https://www.huawei.com/eu/) | slides |
 | [Linaro Connect 2025](https://www.linaro.org/connect) | Lisbon, Portugal | 15 May, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | slides |
-| Invited talk at Google | Virtual | TBD | - |  |
+| [IETF RATS Interim meeting](https://datatracker.ietf.org/meeting/interim-2025-rats-01/session/rats) | Virtual | 2 May, 2025 | - | [slides](https://datatracker.ietf.org/meeting/interim-2025-rats-01/materials/slides-interim-2025-rats-01-sessa-identity-crisis-in-attested-tls-for-confidential-computing-01.pdf); [video](https://youtu.be/Vd_gL4YUGkI?t=2942) |
+| CCC Attestation SIG | Virtual | 22 April, 2025 | - | slides; video |
+| Invited talk at Google | Virtual | 17 April, 2025 | - | slides; video |
 | Invited talk at [Flashbots](https://www.flashbots.net/) | Virtual | 9 Apr, 2025 | - | slides; video |
 | CCC Attestation SIG | Virtual | 8 Apr, 2025 | - | video |
 | ~~[2025 Annual Meeting of the WG "Formal Methods in Security"](https://gtmfs2025.sciencesconf.org/)~~ | ~~Le Mont-Dore, France~~ | ~~17-21 Mar, 2025~~ | - | Could not attend due to overlap with IETF meeting |
-| CCC Attestation SIG | Virtual | 28 Jan, 2025 | - |  |
 | [IETF 122](https://www.ietf.org/meeting/122/) | Bangkok, Thailand | 17-21 Mar, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | [WIMSE slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-wimse-identity-crisis-00) and [video](https://youtu.be/7FUaIYiGzQs?t=4533), <br> [TLS slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-tls-identity-crisis-00) and [video](https://youtu.be/bQ-Bz60AppI?t=6353), <br> Hot RFC [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-hotrfc-sessa-09-identity-crisis-in-attested-tls-for-confidential-computing-00) and [video](https://youtu.be/YHZ2OTwtTj8?list=PLC86T-6ZTP5i9ogKVq-2kQdcj9DWhIAVz&t=1932), <br> [Side meetings plan](https://mailarchive.ietf.org/arch/msg/122attendees/KYY1qFF2wx_fKPGGufDvQgpxFRo/), [slides](https://www.researchgate.net/publication/390121641_Presentation_Attested_TLS_Fundamentals) and videos |
 | [IETF 122 Hackathon](https://www.ietf.org/meeting/hackathons/122-hackathon/) | Bangkok, Thailand | 15-16 Mar, 2025 | Pavel Nikonorov ([GENXT](https://www.genxt.network/)) | [Hackathon project](https://wiki.ietf.org/en/meeting/122/hackathon), [slides](https://datatracker.ietf.org/meeting/122/materials/slides-122-hackathon-sessd-identity-crisis-for-attested-tls-in-confidential-computing-00), [demo](https://wiki.ietf.org/meeting/122/hackathon/hackdemo) and [video](https://youtu.be/CP0Namfmajc?list=PLC86T-6ZTP5i9ogKVq-2kQdcj9DWhIAVz&t=5732) |
 | CCC Attestation SIG | Virtual | 11 Mar, 2025 | - |  |
