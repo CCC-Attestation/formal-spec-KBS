@@ -10,8 +10,8 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | Event/Host | Venue | Date(s) | Funding | Material |
 | --- | --- | --- | --- | --- |
 | Tutorial @ [ISCC 2025](https://ieee-iscc.computer.org/2025/#) | Bologna, Italy | 2-5 July, 2025 | Sponsors are invited | |
-| [Dresden Science Night 2025](https://www.wissenschaftsnacht-dresden.de/en/) | Dresden, Germany | 20 June, 2025 | - | [demo](https://www.wissenschaftsnacht-dresden.de/en/events/detailed-view/confidential-computing-14103) |
-| [18th Interaction and Concurrency Experience (ICE)](https://www.discotec.org/2025/satellite/ice) | Lille, France | 20 June, 2025 | Sponsors are invited | |
+| ~~[Dresden Science Night 2025](https://www.wissenschaftsnacht-dresden.de/en/)~~ | ~~Dresden, Germany~~ | ~~20 June, 2025~~ | - | ~~[demo](https://www.wissenschaftsnacht-dresden.de/en/events/detailed-view/confidential-computing-14103)~~ Overlap with ICE |
+| [18th Interaction and Concurrency Experience (ICE)](https://www.discotec.org/2025/satellite/ice) | Lille, France | 20 June, 2025 | [GENXT](https://www.genxt.network/) | |
 | Invited talk at 2025 Future Trustworthiness Technology Summit (organized by Huawei) | Paris, France | 27 May, 2025 | [Huawei](https://www.huawei.com/eu/) | slides |
 | [Linaro Connect 2025](https://www.linaro.org/connect) | Lisbon, Portugal | 15 May, 2025 | [GENXT](https://www.genxt.network/) and [Pacific Analytics](https://www.pacificanalytics.com/) | [slides](https://www.kitefor.events/download/394) |
 | [IETF RATS Interim meeting](https://datatracker.ietf.org/meeting/interim-2025-rats-01/session/rats) | Virtual | 2 May, 2025 | - | [slides](https://datatracker.ietf.org/meeting/interim-2025-rats-01/materials/slides-interim-2025-rats-01-sessa-identity-crisis-in-attested-tls-for-confidential-computing-01.pdf); [video](https://youtu.be/Vd_gL4YUGkI?t=2942) |
