@@ -10,7 +10,7 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | Event/Host | Venue | Date(s) | Funding | Material |
 | --- | --- | --- | --- | --- |
 | [IETF 123](https://www.ietf.org/meeting/123/) | Madrid, Spain | 21-25 July, 2025 | Partly by [GENXT](https://www.genxt.network/); Sponsors are invited | UFMRG, RATS, TLS, side meetings |
-| [IETF 123 Hackathon](https://www.ietf.org/meeting/hackathons/123-hackathon/) | Madrid, Spain | 19-20 July, 2025 | Partly by [GENXT](https://www.genxt.network/); Sponsors are invited | [Hackathon project](https://wiki.ietf.org/en/meeting/122/hackathon), slides, demo and video |
+| [IETF 123 Hackathon](https://www.ietf.org/meeting/hackathons/123-hackathon/) | Madrid, Spain | 19-20 July, 2025 | Partly by [GENXT](https://www.genxt.network/); Sponsors are invited | [Hackathon project](https://wiki.ietf.org/en/meeting/123/hackathon), slides, demo and video |
 | Tutorial @ [ISCC 2025](https://ieee-iscc.computer.org/2025/#) | Bologna, Italy | 5 July, 2025 | [GENXT](https://www.genxt.network/) | [Abstract](https://ieee-iscc.computer.org/2025/tutorials/) |
 | IETF RATS Interim meeting | Virtual | 27 June, 2025 | - |  |
 | ~~[Dresden Science Night 2025](https://www.wissenschaftsnacht-dresden.de/en/)~~ | ~~Dresden, Germany~~ | ~~20 June, 2025~~ | - | ~~[demo](https://www.wissenschaftsnacht-dresden.de/en/events/detailed-view/confidential-computing-14103)~~ Overlap with ICE |
