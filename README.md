@@ -12,9 +12,11 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 | [IETF 123](https://www.ietf.org/meeting/123/) | Madrid, Spain | 21-25 July, 2025 | Partly by [GENXT](https://www.genxt.network/); Sponsors are invited | UFMRG, RATS, TLS, side meetings |
 | [IETF 123 Hackathon](https://www.ietf.org/meeting/hackathons/123-hackathon/) | Madrid, Spain | 19-20 July, 2025 | Partly by [GENXT](https://www.genxt.network/); Sponsors are invited | [Hackathon project](https://wiki.ietf.org/en/meeting/123/hackathon), slides, demo and video |
 | Tutorial @ [ISCC 2025](https://ieee-iscc.computer.org/2025/#) | Bologna, Italy | 5 July, 2025 | [GENXT](https://www.genxt.network/) | [Abstract](https://ieee-iscc.computer.org/2025/tutorials/) |
-| IETF RATS Interim meeting | Virtual | 27 June, 2025 | - |  |
+| Invited seminar at [Hochschule Bonn-Rhein-Sieg (H-BRS)](https://www.h-brs.de/en) | Virtual | 1 July, 2025 | - |  |
+| IETF RATS Interim meeting | Virtual | 27 June, 2025 | - | slides, video  |
 | ~~[Dresden Science Night 2025](https://www.wissenschaftsnacht-dresden.de/en/)~~ | ~~Dresden, Germany~~ | ~~20 June, 2025~~ | - | ~~[demo](https://www.wissenschaftsnacht-dresden.de/en/events/detailed-view/confidential-computing-14103)~~ Overlap with ICE |
 | [18th Interaction and Concurrency Experience (ICE)](https://www.discotec.org/2025/satellite/ice) | Lille, France | 20 June, 2025 | [GENXT](https://www.genxt.network/) | |
+| [Confidential Computing Summit 2025](https://www.confidentialcomputingsummit.com/e/ccs25) | San Francisco, USA (Virtual) | 17-18 June, 2025 | - | [abstract](https://www.confidentialcomputingsummit.com/e/ccs25/page/2025posters); [video](https://content-cdn.sessionboard.com/event-files/E3fQNfx2QAOa8IZga7sx_FinalSubmitted.mp4) |
 | CCC Attestation SIG | Virtual | 3 June, 2025 | - | [slides](https://github.com/CCC-Attestation/meetings/blob/main/materials/MuhammadUsamaSardar_vTPM_Azure.pdf); video |
 | Invited talk at 2025 Future Trustworthiness Technology Summit (organized by Huawei) | Paris, France | 26-27 May, 2025 | [Huawei](https://www.huawei.com/eu/) | slides |
 | [Linaro Connect 2025](https://www.linaro.org/connect) | Lisbon, Portugal | 15 May, 2025 | [GENXT](https://www.genxt.network/) and [Pacific Analytics](https://www.pacificanalytics.com/) | [slides](https://www.researchgate.net/publication/392070803_Presentation_Attested_TLS_Design_Space_Tradeoffs_and_Standardization); [video](https://www.youtube.com/watch?v=K_07GH90dUw) |
