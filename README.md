@@ -9,9 +9,13 @@ If you are around on any of the following venues of upcoming talks (in reverse c
 
 | Event/Host | Venue | Date(s) | Funding | Material |
 | --- | --- | --- | --- | --- |
-| [IETF 124](https://www.ietf.org/meeting/124/) | Montreal, Canada | 3-7 Nov, 2025 | 	Sponsors are invited | |
-| [IETF 124 Hackathon](https://www.ietf.org/meeting/hackathons/124-hackathon/) | Montreal, Canada | 1-2 Nov, 2025 | Sponsors are invited | |
-| [Workshop on Program Verification](https://europroofnet.github.io/wg3-Sept2025/) at [EuroProofNet Symposium](https://europroofnet.github.io/Symposium/) | Orsay, France (Virtual) | 17 September, 2025 | - |  |
+| [Confidential Computing MC](https://lpc.events/event/19/sessions/224/) and [System Boot and Security MC](https://lpc.events/event/19/sessions/233/) @ [Linux Plumbers Conference 2025](https://lpc.events/event/19/) | Tokyo, Japan | 11-13 Dec, 2025 | Sponsors are invited | slides; video |
+| Attestation Workshop @ [GlobalPlatform Fall Meeting](https://globalplatform.org/events/) | Malaga, Spain | 20 Nov, 2025 | Sponsors are invited | slides; video |
+| [IETF 124](https://www.ietf.org/meeting/124/) | Montreal, Canada | 3-7 Nov, 2025 | [GENXT](https://www.genxt.network/), [CCC](https://confidentialcomputing.io/)  and [Teleport](https://medium.com/@helltech);	Sponsors are invited | |
+| [IETF 124 Hackathon](https://www.ietf.org/meeting/hackathons/124-hackathon/) | Montreal, Canada | 1-2 Nov, 2025 | [GENXT](https://www.genxt.network/), [CCC](https://confidentialcomputing.io/) and [Teleport](https://medium.com/@helltech); Sponsors are invited | |
+| [OCP Security](https://www.opencompute.org/wiki/Security) | Virtual | 28 October, 2025 | - | slides; video |
+| [GA4GH Plenary](https://www.ga4gh.org/news_item/ga4gh-13th-plenary/) | Uppsala, Sweden (Virtual) | 8 October, 2025 | - | slides; video |
+| [Workshop on Program Verification](https://europroofnet.github.io/wg3-Sept2025/) at [EuroProofNet Symposium](https://europroofnet.github.io/Symposium/) | Orsay, France (Virtual) | 17 September, 2025 | - | slides; video |
 | [RIOT Summit 2025](https://summit.riot-os.org/2025/) | Dresden | 3-5 September, 2025 | - | slides; video |
 | [FOSForums 2025](https://www.fosforums.org/home) | Brazil (Virtual) | 29 August, 2025 | - | slides; video |
 | Open TRE GIF | Virtual | 4 August, 2025 | - | slides; video |
